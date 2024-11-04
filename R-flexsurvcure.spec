@@ -7,7 +7,7 @@
 #
 Name     : R-flexsurvcure
 Version  : 1.3.1
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/flexsurvcure_1.3.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/flexsurvcure_1.3.1.tar.gz
 Summary  : Flexible Parametric Cure Models
